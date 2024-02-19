@@ -1,0 +1,19 @@
+apiVersion: version1
+kind: Component
+metadata:
+  name: demo-api-cristians
+  description: |
+    Demo api for backstage testing.
+  links:
+    - title: Demo Api
+      url: https://github.com/cristianstoichin/backstage-api-demo
+    - title: Documentation
+      url: https://github.com/cristianstoichin/backstage-api-demo
+  annotations:
+    github.com/project-slug: cristianstoichin/backstage-api-demo
+    backstage.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://github.com/cristianstoichin/backstage-api-demo
+spec:
+  type: library
+  owner: Cristian
+  lifecycle: experimental
