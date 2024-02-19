@@ -1,7 +1,7 @@
 apiVersion: version1
 kind: Component
 metadata:
-  name: demo-api-cristians
+  name: backstage-api-demo
   description: |
     Demo api for backstage testing.
   links:
